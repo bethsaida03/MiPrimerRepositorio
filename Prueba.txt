@@ -1,4 +1,6 @@
 Hola 
 Esta es mi primera practica usando git
-
+Integrantes:
 Bethsaida Chea
+Alexander Castro
+Arlette Peralta
